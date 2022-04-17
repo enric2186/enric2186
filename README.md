@@ -9,6 +9,8 @@ Check out the project i'm involved with: [<img align="center" alt="Skeleton-ID" 
 
 I’m currently developing my skills on blockchain solutions. Go [<img alt="C" height="18px" src="https://wiki.hyperledger.org/download/attachments/39617294/hyperledgerfoundation-logo.png?version=1&modificationDate=1635182332000&api=v2"/>](https://wiki.hyperledger.org/)!
 
+Note: My depelopment projects are not compiled on github.
+
 ## :hammer_and_pick: Languages:
 [<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img align="left" alt="Javascript" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png"/>](https://en.wikipedia.org/wiki/JavaScript)
